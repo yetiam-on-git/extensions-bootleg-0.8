@@ -4,4 +4,4 @@
 
 | Source Type | Description |          Link |
 | ---        |    ----   |         --- |
-| NepNep      | NepNep Bootleg      | [Click me!](https://yetiam-on-git.github.io/extensions-generic-0.8/nepnep/)    |
+| NepNep      | NepNep unthrottled      | [Click me!](https://yetiam-on-git.github.io/extensions-generic-0.8/nepnep/)    |
